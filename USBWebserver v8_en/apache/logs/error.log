@@ -1,0 +1,30 @@
+[Thu Aug 15 01:29:24 2019] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Thu Aug 15 01:29:24 2019] [notice] Server built: Mar  4 2010 11:27:46
+[Thu Aug 15 01:29:24 2019] [notice] Parent: Created child process 2664
+[Thu Aug 15 01:29:25 2019] [notice] Child 2664: Child process is running
+[Thu Aug 15 01:29:25 2019] [notice] Child 2664: Acquired the start mutex.
+[Thu Aug 15 01:29:25 2019] [notice] Child 2664: Starting 64 worker threads.
+[Thu Aug 15 01:29:25 2019] [notice] Child 2664: Starting thread to listen on port 80.
+[Thu Aug 15 01:29:33 2019] [error] [client 127.0.0.1] File does not exist: F:/programs/USBWebserver v8_en/root/favicon.ico
+[Thu Aug 15 01:30:02 2019] [error] [client 127.0.0.1] File does not exist: F:/programs/USBWebserver v8_en/root/phpinfo
+[Thu Aug 15 01:30:06 2019] [error] [client 127.0.0.1] File does not exist: F:/programs/USBWebserver v8_en/root/favicon.ico
+[Thu Aug 15 01:51:37 2019] [error] [client 192.168.135.201] PHP Warning:  file(./tfpt/menu.lst) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\\programs\\USBWebserver v8_en\\root\\boot.php on line 14
+[Thu Aug 15 01:51:37 2019] [error] [client 192.168.135.201] PHP Warning:  fopen(./tfpt/menu.lst) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in F:\\programs\\USBWebserver v8_en\\root\\boot.php on line 19
+[Thu Aug 15 01:51:37 2019] [error] [client 192.168.135.201] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in F:\\programs\\USBWebserver v8_en\\root\\boot.php on line 20
+[Thu Aug 15 01:51:37 2019] [error] [client 192.168.135.201] PHP Warning:  fclose(): supplied argument is not a valid stream resource in F:\\programs\\USBWebserver v8_en\\root\\boot.php on line 21
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:56:11 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 01:57:52 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/tftpd64
+[Thu Aug 15 02:19:27 2019] [warn] pid file F:/programs/USBWebserver v8_en/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 15 02:19:27 2019] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Thu Aug 15 02:19:27 2019] [notice] Server built: Mar  4 2010 11:27:46
+[Thu Aug 15 02:19:27 2019] [notice] Parent: Created child process 412
+[Thu Aug 15 02:19:28 2019] [notice] Child 412: Child process is running
+[Thu Aug 15 02:19:28 2019] [notice] Child 412: Acquired the start mutex.
+[Thu Aug 15 02:19:28 2019] [notice] Child 412: Starting 64 worker threads.
+[Thu Aug 15 02:19:28 2019] [notice] Child 412: Starting thread to listen on port 80.
+[Thu Aug 15 02:27:31 2019] [error] [client 192.168.135.201] File does not exist: F:/programs/USBWebserver v8_en/root/winvblock1.ima.gz
